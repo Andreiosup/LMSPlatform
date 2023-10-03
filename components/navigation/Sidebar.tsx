@@ -4,7 +4,7 @@ import SidebarRoutes from './SidebarRoutes'
 
 const Sidebar = () => {
   return (
-    <div className="h-full border-r border-current flex flex-col overflow-y-auto bg-black-100 shadow-sm">
+    <div className="h-full border-r border-black flex flex-col overflow-y-auto bg-black-100 shadow-sm">
       <div className="p-6">
         <Logo />
       </div>

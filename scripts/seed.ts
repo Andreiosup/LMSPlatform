@@ -13,6 +13,14 @@ async function main() {
         { name: "Accounting" },
         { name: "Engineering" },
         { name: "Filming" },
+        { name: "Cooking" },
+        { name: "Art and Design" },
+        { name: "History" },
+        { name: "Biology" },
+        { name: "Mathematics" },
+        { name: "Fashion Design" },
+        { name: "Marketing" },
+        { name: "Psychology" },
       ]
     });
 
